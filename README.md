@@ -3,6 +3,9 @@
 
 
 ## 설정
+* Ptrhon <= `3.10.10`
+* 'numpy', 'pandas', 'matplotlib'는 필수적으로 설치해 주세요.
+* 'ipynb'를 위해서 'JupyterLab'도 함께 설치해주세요
 
 ```shell
 $ python -m venv venv
@@ -11,3 +14,7 @@ $ (venv) pip install numpy pandas seaborn
 $ (venv) pip install -r requirements.txt
 $ 
 ```
+
+## Todo
+- [x] 회귀문
+- [ ] 캘리포니아 집
